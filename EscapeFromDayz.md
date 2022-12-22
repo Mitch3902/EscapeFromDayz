@@ -33,18 +33,3 @@ ESCAPE FROM CHERNARUS is a PvP DayZ server Based on Escape From Tarkov and uses 
 ![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221022235711_1.jpg?raw=true "Extract")
 ![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221022235559_1.jpg?raw=true "MV22")
 
-## Custom Locations 
-# Oil Rigs  
-![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221113232853_1.jpg?raw=true "Rig1")
-![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221113232858_1.jpg?raw=true "Rig2")
-# Tisy Keycard Bunker
-![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/20221107225321_1.jpg?raw=true "TISY")
-
-## Armored Vehicles
-BTR80
-![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/max-stam-btr-a-artstation.jpg?raw=true "BTR80")
-BRDM2
-![alt text](https://github.com/Mitch3902/GoonGamingGroup/blob/main/3a13af110e3b419ba5caa16d745fe93a.jpeg?raw=true "BRDM2")
-
-
-
